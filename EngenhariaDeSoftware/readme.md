@@ -35,7 +35,7 @@ Exemplos de Trade Off:
 # Diagrama de Casos de Uso - 21/8
 
 
-<img src=""
+<img src="/EngenhariaDeSoftware/Diagrama_Bancario.drawio.png">
 
 
 
