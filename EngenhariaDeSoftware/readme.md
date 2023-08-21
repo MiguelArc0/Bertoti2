@@ -32,4 +32,4 @@ Exemplos de Trade Off:
 
 
 
-<strong> # 21/08 Diagrama de Casos de Uso </strong>
+# 21/08 Diagrama de Casos de Uso
