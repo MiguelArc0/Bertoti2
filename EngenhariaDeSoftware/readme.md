@@ -33,8 +33,10 @@ Exemplos de Trade Off:
 
 
 # Diagrama de Casos de Uso - 21/8
-
-
+<div style="Cursive">
+<p><h4>Exemplo feito em sala de aula utilizando o sistema UML <br>No sistema abaixo foi feita uma representação das opções que um cliente tem ao utilizar seu app de banco, com a seção investimentos disponível.</p>
+</h4>
+</div>
 <img src="/EngenhariaDeSoftware/Diagrama_Bancario.drawio.png">
 
 
