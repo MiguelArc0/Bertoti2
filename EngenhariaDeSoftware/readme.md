@@ -30,3 +30,6 @@ Exemplos de Trade Off:
 - 2º Bancos Não-Relacionais: Existem diversos tipos de bancos não relacionais, chave-valor, orientado a documentos, colunar, grafo, etc... O que o banco de dados não relacional se propõe a trabalhar com dados semi-estruturados e não estruturados, entregando consistência e agilidade, uma vez que não exige uma estrutura rígida no banco de dados. Por outro lado, temos a questão dos dados serem desnormalizados, o que pode ser um prejuízo em determinadas situações, como por exemplo em um setor financeiro, que precisa de dados normalizados, para evitar inconsistências em suas informações, como a duplicação de dados.
 - 3º Python: Por conta de ser uma linguaguem que se propõe a ser de 'alto nível', ou seja, mais próxima do ser humano, o que ocorre é que os códigos são mais simples de serem criados, com uma sintaxe mais simples se comparada com outras linguagens. O que peca na linguagem Python, é a velocidade da mesma, por conta de ser longe da máquina, há uma maior dificuldade na hora da viagem dos comandos entre linguagem e computador, o que afeta também seu desempenho.
 
+
+
+<strong> #21/08 Diagrama de Casos de Uso </strong>
