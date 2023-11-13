@@ -36,10 +36,10 @@ class Funcionario {
     }
     //Métodos da classe Funcionário
     public void trabalhar() {
-
+        System.out.println(nome + " está trabalhando como " + cargo);
     }
 
     public void realizarTarefa() {
-
+        System.out.println(nome + " está realizando uma tarefa como " + cargo);
     }
 }
