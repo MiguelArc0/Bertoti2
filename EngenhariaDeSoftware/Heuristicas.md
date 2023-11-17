@@ -1,25 +1,25 @@
 Atividade 10 heurísticas - 1 erro e 1 acerto  
 
 1 - Visibility of system status - Visibilidade do status do sistema 
-
+<img src="/EngenhariaDeSoftware/ImagensHeuristica/visibilidadedosistema.jpg"> <br> <br>
 Acerto: Deixa o status do sistema mais visível, o usuário que quiser entender o sistema por completo, o consegue, pois está separado e organizado. 
 
 Erro: As vezes muitas informações atrapalham a usabilidade, uma vez que torna o sistema complexo demais para um usuário iniciante. 
-<img src="/EngenhariaDeSoftware/ImagensHeuristica/visibilidadedosistema.jpg">
-2 - Match between system and the real world - Correspondência entre o mundo real e o sistema. 
 
+2 - Match between system and the real world - Correspondência entre o mundo real e o sistema. 
+<img src="/EngenhariaDeSoftware/ImagensHeuristica/heuristica2.jpg"> <br> <br>
 Acerto: É muito interessante esse mecanismo, uma vez que torna a usabilidade mais amigável, uma vez que transmite a segurança ao usuário o sugerindo termos de sua cultura e cotidiano. 
 
 Erro: Existem pessoas que preferem termos formais a termos culturais, de forma a não simpatizar com o arranjo de palavras utilizadas por sistemas e softwares 
 
 3 - User control and freedom - Controle e Liberdade do Usuário 
-
+<img src="/EngenhariaDeSoftware/ImagensHeuristica/heuristica3.webp"> <br> <br>
 Acerto: Essa sensação de liberdade e confiança propicia ao usuário uma grande satisfação, uma vez que se vê como 'dono' do software, gerando prazer e liberdade. 
 
 Erro: Liberdade demasiada pode gerar alguns problemas, tendo em vista que se o usuário não souber realizar a manutenção correta, pode acabar se frustando ao executar uma ação perigosa, como apagar um arquivo sem querer. 
 
 4 – Consistency and Standarts - Consistência e padrões  
-
+<img src="/EngenhariaDeSoftware/ImagensHeuristica/heuristica4.webp"> <br> <br>
 Acerto: Essa possibilidade de utilizar um sistema consistente e com um caminho de padrões, onde o usuário acaba gravando o meio pelo qual ele tem que percorrer ao utilizar o sistema, contribui para a familiarização dos usuários com o programa, se tornando algo mais fácil, uma vez que já estejam associadas as informações do sistema. 
 
 Erro: Quando ocorre uma atualização muito brusca, o usuário acaba por desconhecer como utilizar o programa, dessa forma ele se sente menos motivado a aprender novamente, uma vez que já o fez anteriormente e esse aprendizado foi descartado. 
